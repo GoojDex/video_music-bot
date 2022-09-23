@@ -91,7 +91,7 @@ python3 main.py # run the bot.
 # Credits 💖
 
 - [OWNER ❤](https://github.com/god-of-karmas) ``Dev``
-- [contact in telegram](https://t.me/cl_me_logesh) 
+- [contact in telegram](#) 
 
 ### Support & Updates
-<a href="https://t.me/logi_channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="#"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
